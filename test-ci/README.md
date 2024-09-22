@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/67arml7hrt5mmeh0?svg=true)](https://ci.appveyor.com/project/Julie/ajs-homeworks)
+
 # Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
